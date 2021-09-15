@@ -6,6 +6,6 @@
 
 -It can be improved by setting stop times for each bus line, service hours, ticket sales, drivers' names. 
 
--We are using license under from MIT and Mapbox api.
+-License under from MIT.
 
 
