@@ -1,6 +1,6 @@
 # Real Time Bus Tracker
 ## Real Time Bus Tracker
-<img src = "The_Real_Time_Bus_Tracker.jpeg" width = "1000" />
+<img src = "The_Real_Time_Bus_Tracker.jpeg" width = "500" />
 
 **Project description:**
 
